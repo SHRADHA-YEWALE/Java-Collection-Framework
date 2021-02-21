@@ -9,7 +9,7 @@ _Collection interface and Map interface are two main interfaces of java collecti
 
 [**Collection interface hierarchy**](https://user-images.githubusercontent.com/22095857/108616737-446d4580-7436-11eb-96b3-dd5c056c6c77.jpg)
 
-**_One of the advantages of the Collection framework is that it provides consistent API → [The classes that implements common interfaces share the common methods] e.g. Since then classes ArrayList, LinkedList, Vector, and Stack implements common interface List, They share all the methods of List, Collection and Iterable interface._**
+_One of the advantages of the Collection framework is that it provides consistent API → [The classes that implements common interfaces share the common methods] e.g. Since then classes ArrayList, LinkedList, Vector, and Stack implements common interface List, They share all the methods of List, Collection and Iterable interface._
 
 ## Map Interface :
 Map interface provides interface and classes which represents a mapping between key and value.
