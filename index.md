@@ -1,5 +1,7 @@
 # Collection Framework in Java
 
+Recently, I have started reading the Java Collection framework and I will be writing series of articles from my learnings from scratch.
+
 ### What is the Collection framework: 
 The collection framework in java provides many interfaces and classes which gives the programmer access to prepackaged data structures as well as algorithms for manipulating them.
 
@@ -19,3 +21,4 @@ Map interface provides interface and classes which represents a mapping between 
 Every interface and class in the Collection interface as well as in the Map interface have some significance. Let's see their significance in form of a flow diagram. The following flow diagram depicts the significance of which class or interface to be used based on the respective requirements.
 
 ![**Flow diagram for Map and Collection interface**](https://user-images.githubusercontent.com/22095857/108616735-3ddece00-7436-11eb-9450-f2000696cb00.jpg)
+
