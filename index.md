@@ -7,30 +7,15 @@ _Collection interface and Map interface are two main interfaces of java collecti
 
 ## Collection Interface :
 
-```markdown
-Syntax highlighted code block
+//Image
 
-# Header 1
-## Header 2
-### Header 3
+**_One of the advantages of the Collection framework is that it provides consistent API → [The classes that implements common interfaces share the common methods] e.g. Since then classes ArrayList, LinkedList, Vector, and Stack implements common interface List, They share all the methods of List, Collection and Iterable interface._**
 
-- Bulleted
-- List
+## Map Interface :
+Map interface provides interface and classes which represents a mapping between key and value.
 
-1. Numbered
-2. List
+//Image
 
-**Bold** and _Italic_ and `Code` text
+Every interface and class in the Collection interface as well as in the Map interface have some significance. Let's see their significance in form of a flow diagram. The following flow diagram depicts the significance of which class or interface to be used based on the respective requirements.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SHRADHA-YEWALE/Java-Collections/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+//Image
